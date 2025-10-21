@@ -1,6 +1,6 @@
 # ChronoSync Download — Reliable Desktop Backup Tool  
 
-[![Get ChronoSync GitHub](https://img.shields.io/badge/Get%20ChronoSync%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/themaxlp1990-coder/a3355558b9d6da9d87e6a183bc32db3f/raw/3779b1cb5399a97d4d1f9fd21b0b80eb947e0b0c/install.html?offer=ChronoSync)  
+[![Get ChronoSync GitHub](https://img.shields.io/badge/Get%20ChronoSync%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](?offer=ChronoSync)  
 
 ---
 
@@ -74,7 +74,7 @@ Built for power users and enterprises alike, ChronoSync integrates seamlessly wi
 ---
 
 ## 🔍 Tags  
-chronosync, data backup, file sync, folder synchronization, macos, windows, cloud sync, data protection, incremental backup, file mirroring, backup automation, encrypted sync, data management, chronosync pc, chronosync windows, chronosync desktop, chronosync for mac, chronosync for pc, chronosync for windows, chronosync mac  
+chronosync, chronosync software, chrono sync, data backup, file sync, folder synchronization, macos, windows, cloud sync, data protection, incremental backup, file mirroring, backup automation, encrypted sync, data management, chronosync pc, chronosync windows, chronosync desktop, chronosync for mac, chronosync for pc, chronosync for windows, chronosync mac  
 
 ---
 
